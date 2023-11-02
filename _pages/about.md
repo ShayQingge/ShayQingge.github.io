@@ -12,7 +12,5 @@ I am a second-year master's student, studying in the college of Informatics at H
 
 You can learn more about me through the following:
 
-Email: jx18@webmail.hzau.edu.cn  
-QQ: 2252524406  
-CSDN: https://blog.csdn.net/jxqingge  
+Email: jx18@webmail.hzau.edu.cn
 Welcome to visit my GitHub page to learn more about my projects and contributions!
